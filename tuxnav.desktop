@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Tux Navigator
+Exec=tuxnav
+Icon=system-file-manager
+Type=Application
+Terminal=false
+Categories=Utility;FileManager;
